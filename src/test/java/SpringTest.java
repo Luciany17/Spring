@@ -11,6 +11,7 @@ public class SpringTest {
         UserDao userDao2 = (UserDao) app.getBean("userDao");
         System.out.println(userDao1);
         System.out.println(userDao2);
+        System.out.println("hello git2");
     }
 
 }
