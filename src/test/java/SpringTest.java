@@ -13,6 +13,7 @@ public class SpringTest {
         System.out.println(userDao2);
         System.out.println("hello git2");
         System.out.println("hello git hot-fix1");
+        System.out.println("master test");
     }
 
 }
