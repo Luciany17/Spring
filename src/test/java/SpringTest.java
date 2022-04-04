@@ -14,6 +14,7 @@ public class SpringTest {
         System.out.println("hello git2");
         System.out.println("hello git hot-fix1");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 
 }
